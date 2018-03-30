@@ -1,2 +1,12 @@
 # Sit_On_Chair
-my first project "Sit On Chair" during course in Coders Lab.
+First web application project "Sit On Chair" during course in Coders Lab.
+
+#### [PLAY DEMO](https://vladyani.github.io/Sit_On_Chair/index.html)
+
+
+## Technologies
+
+* HTML
+* CSS
+
+---
