@@ -231,7 +231,7 @@ header nav li a:hover{
     padding: 15px 0;
     float: left;
     margin-right:10px;
-    background-color: rgba(255, 255, 227, 0.5);
+    background-color: #F9F9F9;
 }
 
 .card_outer_ring_1{
@@ -413,7 +413,7 @@ header nav li a:hover{
     padding: 15px 0;
     float: left;
     margin-right:10px;
-    background-color: rgba(255, 255, 227, 0.5);
+    background-color: #F9F9F9;
 }
 
 .card_outer_ring_3{
