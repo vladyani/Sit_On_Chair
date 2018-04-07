@@ -8,5 +8,5 @@ First web application project "Sit On Chair" during course in Coders Lab.
 
 * HTML
 * CSS
-
+* JavaScript
 ---
