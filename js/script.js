@@ -4,11 +4,11 @@ document.addEventListener('DOMContentLoaded', function () {
     var dropMenu = document.querySelector('.drop_menu');
 
     function showDropMenu() {
-        if (dropMenu.style.display === 'none') {
+        if (dropMenu.style.display !== 'block') {
             dropMenu.style.animation = 'showMenu 1s linear 1';
             dropMenu.style.display = 'block';
         } else {
-            //dropMenu.style.animation = 'hideMenu 1s linear 1';
+//            dropMenu.style.animation = 'hideMenu 1s linear 1';
             dropMenu.style.display = 'none';
         }
     }
